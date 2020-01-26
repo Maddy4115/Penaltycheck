@@ -1,0 +1,104 @@
+No.,Match Week,Date,Player,Team,Versus,Match,Time of Penalty Awarded,Scored,Foot,Kick_Direction,Keeper_Direction
+1,1,13-Aug-16,Riyad Mahrez,Leicester,Hull,Hull vs Leicester,47' minute,Scored,L,C,R
+2,1,13-Aug-16,Sergio Agüero,Man City,Sunderland,Man City vs Sunderland,4' minute,Scored,R,L,L
+3,1,14-Aug-16,Theo Walcott,Arsenal,Liverpool,Arsenal vs Liverpool,30' minute,Missed,R,L,L
+4,1,15-Aug-16,Eden Hazard,Chelsea,West Ham,Chelsea vs West Ham,47' minute,Scored,R,C,L
+5,2,19-Aug-16,Zlatan Ibrahimovic,Man United,Southampton,Man United vs Southampton,52' minute,Scored,R,L,R
+6,2,20-Aug-16,Sergio Agüero,Man City,Stoke,Stoke vs Man City,27' minute,Scored,R,L,R
+7,2,20-Aug-16,Bojan Krkic,Stoke,Man City,Stoke vs Man City,49' minute,Scored,R,C,L
+8,3,27-Aug-16,James Milner,Liverpool,Tottenham,Tottenham vs Liverpool,43' minute,Scored,R,R,L
+9,3,27-Aug-16,Santiago Cazorla,Arsenal,Watford,Watford vs Arsenal,9' minute,Scored,R,C,R
+10,3,27-Aug-16,Yohan Cabaye,Crystal Palace,Bournemouth,Crystal Palace vs Bournemouth,16' minute,Missed,R,R,R
+11,3,27-Aug-16,Leighton Baines,Everton,Stoke,Everton vs Stoke,51' minute,Missed,L,R,R
+12,3,27-Aug-16,Riyad Mahrez,Leicester,Swansea,Leicester vs Swansea,56' minute,Missed,L,L,L
+13,3,27-Aug-16,Jermain Defoe,Sunderland,Southampton,Southampton vs Sunderland,80' minute,Scored,R,L,L
+14,4,10-Sep-16,Santiago Cazorla,Arsenal,Southampton,Arsenal vs Southampton,90'+4' minute,Scored,R,C,R
+15,4,11-Sep-16,Gylfi Sigurdsson,Swansea,Chelsea,Swansea vs Chelsea,59' minute,Scored,R,C,L
+16,5,17-Sep-16,Nacer Chadli,West Brom,West Ham,West Brom vs West Ham,8' minute,Scored,R,L,R
+17,5,17-Sep-16,Alexis Sánchez,Arsenal,Hull,Hull vs Arsenal,14' minute,Missed,R,L,L
+18,5,17-Sep-16,Manuel Lanzini,West Ham,West Brom,West Brom vs West Ham,65' minute,Scored,R,L,L
+19,5,17-Sep-16,Robert Snodgrass,Hull,Arsenal,Hull vs Arsenal,79' minute,Scored,L,L,R
+20,5,18-Sep-16,Troy Deeney,Watford,Man United,Watford vs Man United,90'+5' minute,Scored,R,C,R
+21,6,24-Sep-16,James Milner,Liverpool,Hull,Liverpool vs Hull,30' minute,Scored,R,R,R
+22,6,24-Sep-16,James Milner,Liverpool,Hull,Liverpool vs Hull,71' minute,Scored,R,R,R
+23,6,24-Sep-16,Sergio Agüero,Man City,Swansea,Swansea vs Man City,65' minute,Scored,R,C,R
+24,7,01-Oct-16,James Milner,Liverpool,Swansea,Swansea vs Liverpool,84' minute,Scored,R,C,L
+25,7,02-Oct-16,Erik Lamela,Tottenham,Man City,Tottenham vs Man City,65' minute,Missed,L,R,R
+26,8,15-Oct-16,Kevin De Bruyne,Man City,Everton,Man City vs Everton,43' minute,Missed,R,R,R
+27,8,15-Oct-16,Junior Stanislas,Bournemouth,Hull,Bournemouth vs Hull,45' minute,Scored,R,C,R
+28,8,15-Oct-16,Sergio Agüero,Man City,Everton,Man City vs Everton,70' minute,Missed,R,C,C
+29,8,15-Oct-16,Christian Benteke,Crystal Palace,West Ham,Crystal Palace vs West Ham,45'+1' minute,Missed,R,R,L
+30,8,16-Oct-16,Charlie Austin,Southampton,Burnley,Southampton vs Burnley,66' minute,Scored,R,R,L
+31,8,16-Oct-16,Sam Vokes,Burnley,Southampton,Southampton vs Burnley,72' minute,Scored,R,C,L
+32,10,29-Oct-16,Jermain Defoe,Sunderland,Arsenal,Sunderland vs Arsenal,65' minute,Scored,R,R,L
+33,10,29-Oct-16,Vincent Janssen,Tottenham,Leicester,Tottenham vs Leicester,44' minute,Scored,L,R,R
+34,11,05-Nov-16,Jermain Defoe,Sunderland,Bournemouth,Bournemouth vs Sunderland,74' minute,Scored,R,R,L
+35,11,05-Nov-16,Christian Benteke,Crystal Palace,Burnley,Burnley vs Crystal Palace,81' minute,Scored,R,L,R
+36,11,06-Nov-16,Harry Kane,Tottenham,Arsenal,Arsenal vs Tottenham,51' minute,Scored,R,R,R
+37,11,06-Nov-16,Charlie Austin,Southampton,Hull,Hull vs Southampton,6' minute,Scored,R,L,R
+38,12,19-Sep-16,Riyad Mahrez,Leicester,Watford,Watford vs Leicester,15' minute,Scored,L,L,R
+39,12,19-Sep-16,Gylfi Sigurdsson,Swansea,Everton,Everton vs Swansea,41' minute,Scored,R,R,L
+40,12,19-Sep-16,Bojan Krkic,Stoke,Bournemouth,Stoke vs Bournemouth,49' minute,Missed,R,L,R
+41,12,19-Sep-16,Manuel Lanzini,West Ham,Tottenham,Tottenham vs West Ham,68' minute,Scored,R,L,R
+42,12,19-Sep-16,Harry Kane,Tottenham,West Ham,Tottenham vs West Ham,90'+1' minute,Scored,R,L,L
+43,13,26-Nov-16,Riyad Mahrez,Leicester,Middlesbrough,Leicester vs Middlesbrough,34' minute,Scored,L,R,C
+44,13,26-Nov-16,James Milner,Liverpool,Sunderland,Liverpool vs Sunderland,90'+1' minute,Scored,R,L,R
+45,13,26-Nov-16,Islam Slimani,Leicester,Middlesbrough,Leicester vs Middlesbrough,90'+4' minute,Scored,R,R,L
+46,13,27-Nov-16,Callum Wilson,Bournemouth,Arsenal,Arsenal vs Bournemouth,23' minute,Scored,R,L,R
+47,14,03-Dec-16,Harry Kane,Tottenham,Swansea,Tottenham vs Swansea,39' minute,Scored,R,L,R
+48,14,04-Dec-16,Callum Wilson,Bournemouth,Liverpool,Bournemouth vs Liverpool,56' minute,Scored,R,R,L
+49,14,04-Dec-16,Leighton Baines,Everton,Man United,Everton vs Man United,89' minute,Scored,L,L,L
+50,15,10-Dec-16,Robert Snodgrass,Hull,Crystal Palace,Hull vs Crystal Palace,27' minute,Scored,L,L,R
+51,15,10-Dec-16,Charlie Adam,Stoke,Arsenal,Arsenal vs Stoke,29' minute,Scored,L,R,L
+52,15,10-Dec-16,Gylfi Sigurdsson,Swansea,Sunderland,Swansea vs Sunderland,51' minute,Scored,R,R,L
+53,15,10-Dec-16,Christian Benteke,Crystal Palace,Hull,Hull vs Crystal Palace,52' minute,Scored,R,R,C
+54,16,14-Dec-16,Mark Noble,West Ham,Burnley,West Ham vs Burnley,45' minute,Missed,R,R,R
+55,17,17-Dec-16,Álvaro Negredo,Middlesbrough,Swansea,Middlesbrough vs Swansea,29' minute,Scored,L,L,R
+56,17,17-Dec-16,Bojan Krkic,Stoke,Leicester,Stoke vs Leicester,39' minute,Scored,R,R,R
+57,17,17-Dec-16,Mark Noble,West Ham,Hull,West Ham vs Hull,76' minute,Scored,R,L,L
+59,18,26-Dec-16,Eden Hazard,Chelsea,Bournemouth,Chelsea vs Bournemouth,49' minute,Scored,R,R,L
+60,18,26-Dec-16,Troy Deeney,Watford,Crystal Palace,Watford vs Crystal Palace,71' minute,Scored,R,C,R
+61,18,26-Dec-16,Yaya Touré,Man City,Hull,Hull vs Man City,72' minute,Scored,R,L,R
+62,18,28-Dec-16,Harry Kane,Tottenham,Southampton,Southampton vs Tottenham,58' minute,Missed,R,L,R
+63,19,31-Dec-16,Ashley Barnes,Burnley,Sunderland,Burnley vs Sunderland,67' minute,Scored,R,R,C
+64,20,02-Jan-17,Jermain Defoe,Sunderland,Liverpool,Sunderland vs Liverpool,25' minute,Scored,R,L,L
+65,20,02-Jan-17,Leighton Baines,Everton,Southampton,Everton vs Southampton,81' minute,Scored,L,L,R
+66,20,02-Jan-17,Jermain Defoe,Sunderland,Liverpool,Sunderland vs Liverpool,84' minute,Scored,R,L,R
+67,20,03-Jan-17,Callum Wilson,Bournemouth,Arsenal,Bournemouth vs Arsenal,20' minute,Scored,R,R,R
+68,21,14-Jan-17,Junior Stanislas,Bournemouth,Hull,Hull vs Bournemouth,3' minute,Scored,R,L,C
+69,21,15-Jan-17,James Milner,Liverpool,Man United,Man United vs Liverpool,27' minute,Scored,R,R,R
+70,22,22-Jan-17,Dušan Tadi?,Southampton,Leicester,Southampton vs Leicester,86' minute,Scored,L,R,R
+71,22,22-Jan-17,Andre Gray,Burnley,Arsenal,Arsenal vs Burnley,90'+3' minute,Scored,R,C,R
+72,22,22-Jan-17,Alexis Sánchez,Arsenal,Burnley,Arsenal vs Burnley,90'+8' minute,Scored,R,C,L
+73,23,31-Jan-17,Álvaro Negredo,Middlesbrough,West Brom,Middlesbrough vs West Brom,17' minute,Scored,L,L,R
+74,23,31-Jan-17,Diego Costa,Chelsea,Liverpool,Liverpool vs Chelsea,77' minute,Missed,R,L,L
+75,23,01-Feb-17,Yaya Touré,Man City,West Ham,West Ham vs Man City,67' minute,Scored,R,L,L
+76,24,04-Feb-17,Harry Kane,Tottenham,Middlesbrough,Tottenham vs Middlesbrough,58' minute,Scored,R,R,L
+78,25,11-Feb-17,Alexis Sánchez,Arsenal,Hull,Arsenal vs Hull,90'+3' minute,Scored,R,L,L
+79,26,25-Feb-17,Troy Deeney,Watford,West Ham,Watford vs West Ham,3' minute,Scored,R,L,L
+80,26,25-Feb-17,Joshua King,Bournemouth,West Brom,West Brom vs Bournemouth,5' minute,Scored,R,R,L
+81,26,25-Feb-17,Tom Huddlestone,Hull,Burnley,Hull vs Burnley,72' minute,Scored,R,L,L
+82,27,04-Mar-17,Joshua King,Bournemouth,Man United,Man United vs Bournemouth,40' minute,Scored,R,L,L
+83,27,04-Mar-17,Zlatan Ibrahimovic,Man United,Bournemouth,Man United vs Bournemouth,72' minute,Missed,R,L,L
+84,27,04-Mar-17,Andre Gray,Burnley,Swansea,Swansea vs Burnley,20' minute,Scored,R,C,L
+85,28,11-Mar-17,Joshua King,Bournemouth,West Ham,Bournemouth vs West Ham,9' minute,Missed,R,R,L
+86,28,11-Mar-17,Benik Afobe,West Ham,Bournemouth,Bournemouth vs West Ham,37' minute,Missed,R,L,L
+87,29,18-Mar-17,Jonathan Walters,Stoke,Chelsea,Stoke vs Chelsea,38' minute,Scored,R,L,L
+88,29,19-Mar-17,Dele Alli,Tottenham,Southampton,Tottenham vs Southampton,33' minute,Scored,R,L,R
+89,29,19-Mar-17,James Milner,Liverpool,Man City,Man City vs Liverpool,51' minute,Scored,R,L,R
+90,30,01-Apr-17,Harry Arter,Bournemouth,Southampton,Southampton vs Bournemouth,79' minute,Missed,R,R,L
+91,31,04-Apr-17,Zlatan Ibrahimovic,Man United,Everton,Man United vs Everton,90'+4' minute,Scored,R,R,L
+92,31,05-Apr-17,Eden Hazard,Chelsea,Man City,Chelsea vs Man City,35' minute,Missed,R,R,R
+93,32,10-Apr-17,Luka Milivojevic,Crystal Palace,Arsenal,Crystal Palace vs Arsenal,68' minute,Scored,R,R,R
+94,33,15-Apr-17,Sam Vokes,Burnley,Everton,Everton vs Burnley,52' minute,Scored,R,L,R
+95,34,22-Apr-17,Marko Arnautovic,Stoke,Swansea,Swansea vs Stoke,69' minute,Missed,R,C,R
+96,35,29-Apr-17,Dušan Tadi?,Southampton,Hull,Southampton vs Hull,90' minute,Missed,L,R,R
+97,35,30-Apr-17,Wayne Rooney,Man United,Swansea,Man United vs Swansea,45'+3' minute,Scored,R,R,L
+98,35,30-Apr-17,Sergio Agüero,Man City,Middlesbrough,Middlesbrough vs Man City,69' minute,Scored,R,L,R
+99,35,30-Apr-17,Harry Kane,Tottenham,Arsenal,Tottenham vs Arsenal,58' minute,Scored,R,L,C
+100,36,07-May-17,James Milner,Liverpool,Southampton,Liverpool vs Southampton,66' minute,Missed,R,L,L
+101,37,13-May-17,Gabriel Jesus,Man City,Leicester,Man City vs Leicester,36' minute,Scored,R,L,R
+102,37,13-May-17,Shane Long,Southampton,Middlesbrough,Middlesbrough vs Southampton,64' minute,Missed,R,L,R
+104,37,14-May-17,Luka Milivojevic,Crystal Palace,Hull,Crystal Palace vs Hull,85' minute,Scored,R,R,L
+105,37,17-May-17,Manolo Gabbiadini,Southampton,Man United,Southampton vs Man United,6' minute,Missed,L,R,R
+106,38,21-May-17,Romelu Lukaku,Everton,Arsenal,Arsenal vs Everton,58' minute,Scored,L,R,R
